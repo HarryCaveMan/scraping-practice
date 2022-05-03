@@ -1,0 +1,17 @@
+{
+  "name": "pupptest",
+  "version": "1.0.0",
+  "description": "puppeteer test",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "harry",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
